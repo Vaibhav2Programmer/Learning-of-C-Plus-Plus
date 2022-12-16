@@ -1,0 +1,5 @@
+Array Before Sorting:
+7 8 9 1 2 3 
+
+Array After Sorting:
+1 2 3 7 8 9 
